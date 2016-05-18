@@ -22,3 +22,5 @@ if len(sys.argv) < 2:
     sys.exit()
 
 print( sys.argv[1], rot13(sys.argv[1]), sep="\n" )
+
+print("lorem ipsum")
